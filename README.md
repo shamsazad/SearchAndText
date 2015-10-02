@@ -11,6 +11,6 @@
 Things to do
 ==========================================
 ==== 2nd Oct 2015 ===
-* Is there any method to analyze the response of users.
+* Is there any method to analyze the response of users. (Categroize tasks and accordingly analyze reponse)
 * Current markets.
 * Go through the videos of Dragon's den.
