@@ -19,3 +19,5 @@ Things to do
 * Download android studio from : http://developer.android.com/sdk/installing/index.html?pkg=studio
 * Go through the lecture of https://www.udacity.com/course/developing-android-apps--ud853
 
+==7th Oct 2015==
+* Friends get remainder and notification if they are near store or near things to do.
