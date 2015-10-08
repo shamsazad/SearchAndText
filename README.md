@@ -6,6 +6,7 @@
 * You can call them.(should be something different we can think of it later)
 * I would suggest even friend position is not seen we can send message or assign task.
 * Friend can mark complete as soon as it is done.
+* Friends get remainder and notification if they are near store or near things to do.
 
 
 Things to do
@@ -19,5 +20,4 @@ Things to do
 * Download android studio from : http://developer.android.com/sdk/installing/index.html?pkg=studio
 * Go through the lecture of https://www.udacity.com/course/developing-android-apps--ud853
 
-==7th Oct 2015==
-* Friends get remainder and notification if they are near store or near things to do.
+
