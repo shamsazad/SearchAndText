@@ -25,5 +25,6 @@ New Project
 =========================================
 * http://www.r-bloggers.com/integrating-python-and-r-into-a-data-analysis-pipeline-part-1/
 * http://www.datacommunitydc.org/blog/2013/05/stepping-up-to-big-data-with-r-and-python
+* https://www.coursera.org/course/statinference  --- To clear the statistics fundamentals
 
 
